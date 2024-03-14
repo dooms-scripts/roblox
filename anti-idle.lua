@@ -16,3 +16,4 @@ coroutine.wrap(function()
 		end)
 	end
 end)()
+warn('Loaded anti-afk')
